@@ -1,0 +1,50 @@
+[
+    {
+        "pic1": "https://i.ibb.co/KGdMj9W/7.webp",
+        "pic2": "https://i.ibb.co/4ZZMtpJ/1.webp",
+        "name": "Plant Based Reusable Cups",
+        "price1": 2.99,
+        "price2": 2.39,
+        "badge": ""
+    },
+    {
+        "pic1": "https://i.ibb.co/KGdMj9W/7.webp",
+        "pic2": "https://i.ibb.co/JqWWvg2/2.webp",
+        "name": "Sustainability Starter Kit",
+        "price1": "",
+        "price2": 10.99,
+        "badge": "BestSeller"
+    },
+    {
+        "pic1": "https://i.ibb.co/d03sCj9/9.webp",
+        "pic2": "https://i.ibb.co/41n4TKV/3.webp",
+        "name": "Reusable Bamboo Straws",
+        "price1": "",
+        "price2": "1.99",
+        "badge": ""
+    },
+    {
+        "pic1": "https://i.ibb.co/p1dC4WX/10.webp",
+        "pic2": "https://i.ibb.co/s9TT6Mc/4.webp",
+        "name": "Natural Bamboo Loofah",
+        "price1": "3.99",
+        "price2": "2.99",
+        "badge": ""
+    },
+    {
+        "pic1": "https://i.ibb.co/mFLDjTS/11.webp",
+        "pic2": "https://i.ibb.co/YtzxyB0/5.webp",
+        "name": "Bamboo Toothbrush (set of 2)",
+        "price1": "4.49",
+        "price2": "3.59",
+        "badge": ""
+    },
+    {
+        "pic1": "https://i.ibb.co/vZHRTDj/12.webp",
+        "pic2": "https://i.ibb.co/vZHRTDj/12.webp",
+        "name": "Plant Based Reusable Containers",
+        "price1": "",
+        "price2": "2.99",
+        "badge": ""
+    }
+]
