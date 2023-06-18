@@ -103,3 +103,43 @@ const styles = StyleSheet.create({
 });
 
 export { GenaratePDF };
+
+
+
+
+// const express = require('express');
+// const multer = require('multer');
+// const axios = require('axios');
+
+// const upload = multer({ dest: 'uploads/' });
+// const app = express();
+
+// app.post('/upload', upload.single('image'), async (req, res) => {
+//   try {
+//     const imageData = req.file;
+
+//     // Upload image to ImageBB
+//     const response = await axios.post('https://api.imgbb.com/1/upload', {
+//       key: 'YOUR_API_KEY',
+//       image: imageData.buffer.toString('base64')
+//     });
+
+//     // Extract image URL from ImageBB response
+//     const imageUrl = response.data.data.url;
+
+//     // Save imageUrl in the database
+//     // (Example using Mongoose)
+//     const Image = require('./models/Image');
+//     const newImage = new Image({ url: imageUrl });
+//     await newImage.save();
+
+//     res.status(200).json({ message: 'Image uploaded and stored successfully' });
+//   } catch (error) {
+//     console.error('Error uploading image:', error);
+//     res.status(500).json({ error: 'Failed to upload image' });
+//   }
+// });
+
+// app.listen(3000, () => {
+//   console.log('Server listening on port 3000');
+// });
